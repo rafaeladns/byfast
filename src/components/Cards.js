@@ -13,33 +13,28 @@ function Cards() {
               src="images/entrega.jpg"
               text="Rastreie a sua encomenda a qualquer hora do dia, com atualização em tempo real."
               label="Rastreamento de encomenda"
-              path="/services"
             />
             <CardItem
               src="images/caminhoneiro.jpg"
               text="Seja um de nossos entregadores parceiros, venha para byFast."
               label="Seja nosso parceiro"
-              path="/services"
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/img-3.jpg"
-              text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
-              label="Mystery"
-              path="/services"
+              src="images/international.jpg"
+              text="Enviamos a sua encomenda para mais de 154 países."
+              label="byFast Internacional"
             />
             <CardItem
-              src="images/img-4.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
-              label="Adventure"
-              path="/products"
+              src="images/entrega-encomenda.jpg"
+              text="Serviço que avisa o horário de entrega das encomendas e com a possiblidade de entrega com dia e hora marcada."
+              label="Entrega Personalizada"
             />
             <CardItem
-              src="images/img-8.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
-              label="Adrenaline"
-              path="/sign-up"
+              src="images/entrega-documentos.jpg"
+              text="Modalidade para envio de documentos na medida para você."
+              label="byFast DOC"
             />
           </ul>
         </div>
